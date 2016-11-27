@@ -6,6 +6,7 @@
   "devDependencies": {
     "react-scripts": "0.7.0"
   },
+  "homepage": "./",
   "dependencies": {
     "react": "^15.4.1",
     "react-addons-pure-render-mixin": "^15.4.1",
