@@ -47,7 +47,7 @@ class App extends Component {
         return (
             <div className="App">
                 <div className="App-header">
-                    <img src="/parity.svg" className="App-logo" alt="logo"/>
+                    <img src="parity.svg" className="App-logo" alt="logo"/>
                     <h2>Welcome to a Dapp world!</h2>
                 </div>
                 <p>
